@@ -1,0 +1,15 @@
+var userName = "MUZAMIL";
+console.log(userName);
+var fatherName = "QURBAN ALI";
+console.log(fatherName);
+var cast = "MALIK";
+console.log(cast);
+var age = 21;
+console.log(age);
+var contact = 786;
+console.log(contact);
+var fee = 0.00;
+console.log(fee);
+var isMarried = false;
+console.log(isMarried);
+//console.log(userName, fatherName, cast, age, contact, fee, isMarried);
